@@ -876,7 +876,7 @@ Installation:
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="FDF6E3" />
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="CB4B16" />
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="CB4B16" />
-        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="CB4B16" />
+        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="268BD2" />
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FDF6E3" />
         <WidgetStyle name="Active tab text" styleID="0" fgColor="002B36" />
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="073642" bgColor="93A1A1" />
